@@ -46,6 +46,12 @@ section#post-list article .actions {
     margin-bottom: 10px;
 }
 
+section#post-list article .actions button {
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
 section#post-list article .actions img {
     height: 20px;
     margin-right: 10px;
